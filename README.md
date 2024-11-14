@@ -11,7 +11,7 @@
 
 
 <div align="center">  
-<a href="https://www.linkedin.com/in/eduardawanderlley" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%023F13?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/eduardawanderlley" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%023F13?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div> 
  
 ### Main skills:
